@@ -1,0 +1,6 @@
+this is a test
+<<<<<<< HEAD
+conflict
+=======
+this is a test
+>>>>>>> testing

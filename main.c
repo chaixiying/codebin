@@ -1,2 +1,2 @@
 this is a test
-conflict
+this is a test
